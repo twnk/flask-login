@@ -1,6 +1,6 @@
 -r requirements.txt
 
-blinker==1.4
+blinker==1.5
 coverage==5.5
 flask[async]==2.0.1; python_version >= '3.7'
 pytest==6.1.2; python_version == '3.5'
